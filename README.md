@@ -1,1 +1,1 @@
-# patika-kodluyoruz-e-itimi
+# patika-kodluyoruz-egitimi
